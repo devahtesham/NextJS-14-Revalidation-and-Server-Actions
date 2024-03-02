@@ -1,0 +1,14 @@
+{
+  "node": {
+    "ca7708b9b5babf883900a0d68971dc6d76dcf939": {
+      "workers": {
+        "app/add-product/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fgaditek%2FDocuments%2Foffice%20data%2Flearning%20lectures%2Fnextjs%2Frevalidation-and-server-actions%2Factions%2FaddProductAction.jsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/add-product/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "aHH3UBKRmBJP3nt5/vxXsgPstts/ryR7jRNGElb/GLs="
+}
